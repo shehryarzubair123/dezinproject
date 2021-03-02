@@ -1,0 +1,1810 @@
+*{
+
+	padding: 0px;
+	margin: 0px;
+}
+
+
+/*==========================header start==================*/
+ 
+
+
+
+.header .row .but{
+
+	padding-top: 10px;
+}
+
+.header .row .logo{
+
+	padding-top: 5px;
+}
+
+
+
+.header nav .nav-item  .active{
+
+	border-top: 5px solid #7200d9;
+	color: #7200d9!important;	
+
+}
+
+
+
+.header nav .nav-item .deact{
+
+	margin-top: 5px;
+}
+
+
+.header nav .nav-item .nav-link{
+
+	color: black;
+	font-size: 12px!important;
+	padding: 20px;
+	margin-right: 10px;
+
+
+	
+}
+
+.header nav{
+
+	padding: 0px!important;
+	
+	text-transform: uppercase;
+
+}
+
+
+
+.header .but .btn{
+
+	text-transform: uppercase;
+	font-size: 12px!important;
+	margin-top: 5px;
+
+
+
+}
+
+.header .but .btn1{
+
+	
+	background-color: #7200d9;
+	border-radius: 10px;
+	color: white;
+
+
+}
+
+.header .but  .btn i{
+
+	padding: 0px 5px;
+	color: #7200d9;
+}
+
+/*==========================header end==================*/
+
+/*==========================Top start==================*/
+
+
+
+
+
+.top .row .pc{
+
+	
+	align-content: center;
+	background-color: #ffd400;
+	
+}
+
+
+.top .nav .dropdown a{
+
+	text-transform: uppercase;
+	font-size: 12px;
+	color: black !important;
+	
+}
+
+.top .row .pc h6{
+
+	text-transform: uppercase;
+	font-size: 14px;
+	margin: 15px 0px 15px 40%; 
+	
+}
+
+
+.top .row{
+
+	background-color: #eef1f8;
+}
+
+.top .row .search input{
+
+	
+	width: 80%;
+	height: auto;
+	border: none;
+	padding: 5px 0px 5px 10px;
+	border-radius: 50px;
+	color: #8098a8;
+	text-transform: uppercase;
+	font-size: 12px;      
+}
+          
+.top .row .search button { 
+
+	
+    
+    color: #8098a8;
+    padding: 0px;    
+   
+    position: absolute;
+    margin-left: 66%;
+       
+}
+
+
+.top .row .search span{
+
+    
+    border-left: 2px solid #ccc;
+    margin-left: 63%;
+    margin-top: 1.5%;
+    height: 15px;
+    position: absolute;
+
+}
+
+
+/*==========================Top end==================*/
+
+/*==========================main start==================*/
+
+
+.main {
+
+	background-image: url(img/back.jpg);
+	padding: 5% 0px;
+	width: 100%;
+	background-size: cover;
+	text-transform: uppercase;
+		
+}
+
+
+.main  .row .text{
+
+	margin-top: 15%;
+	color: white;
+		
+}
+
+.main .row .text .btn{
+
+	background-color: #7200d9;
+	color: white;
+	text-transform: uppercase;
+
+}
+
+.main .row .text h1{
+
+	
+	font-weight: bold;
+	font-size: 48px;
+
+}
+
+.main .row .text p{
+
+	font-size: 12px;
+}
+
+.main .row .items{
+
+	margin-top: 50px;
+	
+}
+
+
+
+
+/*==========================main end==================*/
+/*==========================sec1 start==================*/
+
+
+.sec1{
+
+	margin: 8% 0%;
+	text-transform: uppercase;
+}
+
+
+.sec1 .tt img{
+
+	margin-top: 14%;
+	margin-bottom: 1rem;
+}
+
+.sec1 .yt img{
+
+	margin-top: 5rem;
+	margin-bottom: 8%;
+}
+
+.sec1 .st img{
+
+	margin-top: 17%;
+	margin-bottom: 9%;
+}
+
+.sec1 .tt .sm{
+
+	margin-top: 14px;
+}
+.sec1 h3{
+
+	font-weight: bold;
+	line-height: 1px;	
+	color: white;
+
+	
+}
+
+
+.sec1 .tt h3{
+
+	font-size: 30px;
+	margin-top: 10px;
+	color: white;
+}
+
+.sec1 .tt p{
+
+	font-size: 30px;
+	color: white;
+}
+
+.sec1 .yt p{
+
+	color: #7200db;
+}
+
+.sec1 .yt h3{
+
+	color: #7200db;
+}
+
+.sec1 .tst h3{
+
+	font-size: 30px;
+	color: white;
+}
+
+.sec1 .st p{
+
+	font-size: 30px;
+	color: white;
+}
+
+.sec1 .para1{
+
+	font-size: 30px;
+	
+}
+
+.sec1 .tt{
+
+	border-radius: 10px;
+	margin: 10px 20px;
+	background-color: #7200db;
+	position: relative;
+		
+}
+.sec1 .yt{
+
+	border-radius: 10px;
+	margin: 10px 20px;
+	background-color: #ffd500;
+	position: relative;
+}
+.sec1 .st{
+
+	border-radius: 10px;
+	margin: 10px 20px;
+	background-color: #7200db;
+	position: relative;
+}
+
+.sec1 .overlay{
+
+	position: absolute;
+	height: 100%;	
+	top: 0;
+	width: 100%;
+	left: 0;
+	right: 0;
+	transition: .5s;
+
+}
+
+.sec1 .overlay .overlayleft{
+
+ 
+  height: 100%;
+  position: absolute;
+ 
+  right: 0;
+  width: 0%;
+  background-color: white;
+  opacity: .8;   
+  transition: .5s ease-in-out;
+ 
+
+}
+
+
+.sec1 .overlay:hover .overlayleft{
+
+ 
+  background-color: white;
+  width: 80%;
+  opacity: 0;
+}
+
+.sec1 .overlay .overlayright{
+
+ 
+  height: 100%;
+  position: absolute;
+ 
+  left: 0;
+  width: 0%;
+  background-color: white;
+  opacity: .8;   
+  transition: .5s ease-in-out;
+ 
+
+}
+
+
+.sec1 .overlay:hover .overlayright{
+
+ 
+  background-color: white;
+  width: 80%;
+  opacity: 0;
+}
+
+/*==========================sec1 end==================*/
+
+/*========================sec2 start =================*/
+
+.sec2{
+
+	background-image: url(img/back2.jpg);
+	padding-bottom: 10%;
+	
+	background-size: cover;
+	background-position: center;
+	text-transform: uppercase;
+}
+
+.sec2 .row .text{
+
+	padding-top: 8%;
+}
+
+.sec2 input{
+
+	border: none;
+	border-radius: 50px;
+	width: 70%;
+	height: 14.5%;
+	padding: 0% 2%;
+	font-size: 12px;
+	color: #aab3ba;
+	position: relative;
+	text-transform: uppercase;
+}
+
+
+
+.sec2 button { 
+
+	text-transform: uppercase;
+	font-size: 12px;    
+    color: white;
+    padding: 5px 2%;
+    border-radius: 50px;
+    right: 31%;
+    height: 2.5rem;
+    position: absolute;
+         
+}
+
+.sec2 h1{
+
+	color: #7400dc;
+	font-size: 42px;
+}
+
+.sec2 span{
+
+	color: black;
+}
+
+.sec2 h2{
+
+	font-weight: bold;
+	color: #7400dc;
+	font-size: 42px;
+
+}
+
+.sec2 .btn i{
+
+	padding-left: 5px;
+}
+
+.sec2 p{
+
+	font-size: 12px;
+}
+
+.sec2 img{
+
+	padding-right: 10%;
+}
+
+/*==========================sec2 end==================*/
+
+
+/*==========================sec3 start==================*/
+
+.sec3{
+
+	background-color: #2b3046;
+	margin-bottom: 5%;
+	margin-left: 13%;
+	margin-right: 13%;
+	border-radius: 10px;
+	margin-top: -5%;
+	padding: 1%;
+}
+
+.sec3 .row .logo{
+
+	margin-left: 3%;
+}
+
+.sec3 h3{
+
+	color: #ebc508;
+	margin: 5px;
+	text-transform: uppercase;
+	margin-top: 5%;
+
+}
+
+.sec3 p{
+
+	text-transform: uppercase;
+	color: white;
+	font-size: 14px;
+}
+
+.sec3 button{
+
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	height: 3rem;
+	color: #2b3046;
+	padding: 15px 30px;
+	border-radius: 50px;
+	margin-top: 15%;
+
+}
+
+.sec3 .btn i{
+
+	padding-left: 5px;
+}
+
+
+/*==========================sec3 end==================*/
+
+
+/*==========================sec4 start==================*/
+
+.sec4{
+
+	margin-bottom: 5%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.sec4 h4{
+
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.sec4 .card1 .card .card-footer{
+
+	background-color: #7400dc;
+
+}
+
+.sec4 .card1 .card .card-footer .footer{
+
+	background-color: #7400dc;
+
+}
+
+
+.sec4 .card{
+
+	background-color: #e9e3ff;
+	margin: 20px 0px;
+
+}
+
+.sec4 .card .img1{
+
+	padding: 10px 0px;
+}
+
+.sec4 .row .card .card-footer .footer2{
+
+	background-color: #f3f7fb;
+}
+
+
+.sec4 .row .card .card-footer button{
+
+	margin-top: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7400dc;
+	border-radius: 50px;
+	text-transform: uppercase;
+}
+
+.sec4 .row .card .card-footer .footer{
+
+	
+	padding: 15px;
+
+}
+
+.sec4 .row .card .card-footer h6{
+
+
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.sec4 .row .card .card-footer h5{
+
+	color: white;
+	text-transform: uppercase;
+}
+
+.sec4 .row .card .card-footer .para{
+
+	color: white;	
+	line-height: 1px;
+	font-size: 12px;
+}
+
+.sec4 .row .card .card-footer p{
+
+	color: black;
+	line-height: 1px;
+	font-size: 8px;
+}
+
+
+.sec4 .row .card .card-footer .but i{
+
+	padding-left: 5px;
+}
+
+
+.sec4 .row .card .card-footer .footer2{
+
+	padding: 5%;
+}
+
+.sec4 .row img{
+
+	padding: 15px;
+}
+
+.sec4 .card{
+
+	position: relative;
+	transition-duration: .5s;
+	
+	
+}
+
+.sec4 .card:hover{
+
+	position: relative;
+	background-color: rgb(187, 182, 204);
+	transition-duration: .5s;
+	
+	
+}
+
+.sec4 .cart1{
+	
+	position: absolute;
+	top: 0;
+	left: 0;
+    text-align: center;	
+    opacity: 0;
+	width: 100%;
+	height: 100%;
+	transition-duration: .5s;
+		
+
+}
+
+.sec4 .cart1:hover{
+	
+    opacity: 1;
+	
+
+}
+
+.sec4 .cart1 .carticons{
+
+	width: 100%;
+	height: 81%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+
+} 
+
+
+
+.sec4 .cart2{
+	
+	position: absolute;
+	top: 0;
+	left: 0;		
+    text-align: center;	
+    margin: 0px!important;
+    opacity: 0;
+	width: 100%;
+	height: 100%;	
+	transition-duration: .5s;
+	
+}
+
+.sec4 .cart2:hover{
+	
+    opacity: 1;
+	
+}
+
+.sec4 .cart2 .carticons{
+
+	width: 100%;
+	height: 81%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+
+} 
+
+.sec4 .cart2 .carticons ul{
+
+	list-style: none;
+	position:absolute;
+	top: 45%;
+	left: 7%;
+	right: 7%;
+	text-decoration: none;
+}
+
+.sec4 .card .cart2 .footer2{
+
+	width: 100%;
+	height: 19%;
+	top: 81%;
+	position: absolute;
+	background-color: rgb(118, 0, 221);
+}
+
+
+.sec4 .cart2 .footer2 button{
+
+	margin-top: 15px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7400dc;
+	border-radius: 50px;
+	text-transform: uppercase;
+	
+}
+
+.sec4 .card .cart2 .carticons a{
+
+	background-color: white;
+	margin-right: 5px;
+	padding: 5px 8px;
+
+
+}
+
+.sec4 .card .cart1 a{
+
+	background-color: white;
+	margin-right: 5px;
+	position: relative;
+	top: 40%;
+	padding: 5px 8px;
+
+
+}
+
+.sec4 .card .cart2 .carticons i{
+
+	font-size: 16px;
+	color: black;
+}
+
+.sec4 .card .cart1 i{
+
+	font-size: 16px;
+	color: black;
+}
+
+
+
+
+	
+
+
+
+
+
+/*==========================sec4 end==================*/
+
+
+/*==========================sec5 start==================*/
+
+.sec5 {
+
+	margin: 10%;
+}
+
+.sec5 h4{
+
+	text-transform: uppercase;
+	font-weight:bold;
+}
+
+.sec5 .card h6{
+
+	font-size: 10px;
+}
+
+.sec5 .card button{
+
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7400dc;
+	border-radius: 50px;
+}
+
+
+.sec5 .card .img{
+
+	height: 220px;
+	width: 100%;
+	padding: 20px;
+}
+
+.sec5 .card .footer1{
+
+	background-color: #7400dc;
+}
+
+.sec5 .card i{
+
+	padding-left: 5px;
+}
+
+.sec5 .card{
+
+	margin: 15px 0px;
+	background-color: #e9e3ff;
+	position: relative;
+}
+.sec5 .card .footer2{
+
+	background-color: #f3f7fb;
+}
+
+.sec5 .card .cart{
+
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: .2s;
+	height: 100%;
+	width: 100%;
+	
+	
+}
+
+
+.sec5 .card .cart .cartimg{
+
+	height: 195px;
+	width: 0%;	
+	transition: .2s ease-in-out;
+	top: 0;	
+	float: right;
+	right: 0;
+}
+
+.sec5 .card .cart:hover .cartimg{
+	
+	
+	opacity: 1;		
+	background-color: rgb(233, 227, 255);
+	width: 100%;
+	
+}
+
+.sec5 .card .cart .cartimg .imgcart{
+
+
+	height: 220px;	
+	width: 100%;
+	padding: 15px;
+	
+	
+
+}
+
+.sec5 .card .cart .cartbtn{
+
+	text-align: center;
+	opacity: 0;
+	width: 100%;
+	top: 79.3%;
+	padding: 13px;
+	background-color: #7400dc;
+}
+
+.sec5 .card .cart:hover .cartbtn{
+
+	text-align: center;
+	opacity: 1;
+	
+	position: absolute;		
+	background-color: #7400dc;
+}
+
+.sec5 .card .cart .cartbtn .btn:hover{
+
+	border: none;	
+	margin: 1px 0px;
+	background-color: rgb(0, 105, 217);
+}
+
+.sec5 .card .cart .btnicon{
+
+	position: absolute;
+	left: 10px;
+	transition: .2s ease-in-out;
+	border: none;
+	padding: 4px 2px;
+	bottom: 40%;	
+	opacity: 0;
+	padding-right: 6px;
+	background-color: white;
+}
+
+.sec5 .card .cart:hover .btnicon{
+
+	opacity: 1;
+	bottom: 50%;
+	box-shadow: 0px 1px 5px gray;
+	color: black;
+	
+}
+
+.sec5 .card .cart .btnicon:hover{
+
+	background-color: rgb(116, 0, 220);
+		
+}
+
+.sec5 .card .cart .btnicon .btni{
+
+	color: black;
+	font-size: 15px;
+}
+
+
+.sec5 .card .cart .btnicon:hover .btni{
+
+	color: white;
+
+}
+
+/*==========================sec5 end==================*/
+
+/*==========================sec6 start==================*/
+
+.sec6{
+
+	background-image: url(img/sports.png);
+	height: 500px;
+	margin: 5% 10%;
+	position: relative;
+	background-size: cover;
+}
+
+.sec6 .design{
+
+	float: right;
+}
+
+.sec6 .design .logo{
+
+	margin-top: 10%;
+}
+
+.sec6 .design .ath{
+
+	margin: 3% 0px;
+}
+
+.sec6 .design button{
+
+	text-transform: uppercase;
+	font-size: 10px;
+	font-weight: bold;
+	color: #7400dc;
+	margin-top: 5%;
+	border-radius: 50px;
+	padding: 8px 10%;
+}
+
+.sec6 .overlay{
+
+	position: absolute;
+	height: 100%;	
+	top: 0;
+	width: 100%;
+	left: 0;
+	transition: .5s;
+
+}
+
+.sec6 .overlay .overlayleft{
+
+ 
+  height: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 0%;
+  background-color: white;
+  opacity: .8;   
+  transition: .5s ease-in-out;
+ 
+
+}
+
+
+.sec6 .overlay:hover .overlayleft{
+
+ 
+  background-color: white;
+  width: 80%;
+  opacity: 0;
+}
+
+.sec6 .overlay .overlayright{
+
+ 
+  height: 100%;
+  position: absolute;
+  right: 0;
+  width: 0%;
+  background-color: white;
+  opacity: .8;   
+  transition: .5s ease-in-out;
+ 
+
+}
+
+
+.sec6 .overlay:hover .overlayright{
+
+ 
+  background-color: white;
+  width: 80%;
+  opacity: 0;
+}
+
+
+
+/*==========================sec6 end==================*/
+
+/*==========================sec7 start==================*/
+
+.sec7 {
+
+	margin: 10%;
+}
+
+.sec7 h4{
+
+	text-transform: uppercase;
+	font-weight:bold;
+}
+
+.sec7 .card h6{
+
+	font-size: 10px;
+}
+
+.sec7 .card button{
+
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7400dc;
+	border-radius: 50px;
+}
+
+
+.sec7 .card img{
+
+	
+	height: 200px;
+	width: 100px;
+	margin: 15px 0px;
+}
+
+.sec7 .card .center{
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sec7 .card .footer1{
+
+	background-color: #7400dc;
+}
+
+.sec7 .card i{
+
+	padding-left: 5px;
+}
+
+.sec7 .card{
+
+	margin: 15px 0px;
+	justify-content: center;
+	position: relative;
+	background-color: #e9e3ff;
+}
+
+.sec7 .card .footer2{
+
+	background-color: #f3f7fb;
+}
+
+.sec7 .card .cart{
+
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: .2s;
+	height: 100%;
+	width: 100%;
+	
+	
+}
+
+
+.sec7 .card .cart .cartimg{
+
+	height: 195px;
+	width: 0%;	
+	transition: .2s ease-in-out;
+	top: 0;	
+	float: right;
+	right: 0;
+}
+
+.sec7 .card .cart:hover .cartimg{
+	
+	
+	opacity: 1;		
+	background-color: rgb(233, 227, 255);
+	width: 100%;
+	
+}
+
+.sec7 .card .cart .cartimg .imgcart{
+
+
+	height: 200px;	
+	width: 100%;
+	padding: .1% 30%;
+	
+	
+
+}
+
+.sec7 .card .cart .cartbtn{
+
+	text-align: center;
+	opacity: 0;
+	width: 100%;
+	top: 80%;
+	padding: 13px;
+	background-color: #7400dc;
+}
+
+.sec7 .card .cart:hover .cartbtn{
+
+	text-align: center;
+	opacity: 1;
+	
+	position: absolute;		
+	background-color: #7400dc;
+}
+
+.sec7 .card .cart .cartbtn .btn:hover{
+
+	border: none;	
+	margin: 1px 0px;
+	background-color: rgb(0, 105, 217);
+}
+
+.sec7 .card .cart .btnicon{
+
+	position: absolute;
+	left: 10px;
+	transition: .2s ease-in-out;
+	border: none;
+	padding: 4px 2px;
+	bottom: 40%;	
+	opacity: 0;
+	padding-right: 6px;
+	background-color: white;
+}
+
+.sec7 .card .cart:hover .btnicon{
+
+	opacity: 1;
+	bottom: 50%;
+	box-shadow: 0px 1px 5px gray;
+	color: black;
+	
+}
+
+.sec7 .card .cart .btnicon:hover{
+
+	background-color: rgb(116, 0, 220);
+		
+}
+
+.sec7 .card .cart .btnicon .btni{
+
+	color: black;
+	font-size: 15px;
+}
+
+
+.sec7 .card .cart .btnicon:hover .btni{
+
+	color: white;
+
+}
+
+/*==========================sec7 end==================*/
+
+/*==========================sec8 start==================*/
+
+.sec8{
+
+	margin: 5% 10%;
+}
+
+
+
+.sec8 .box1{	
+	
+	
+	position: relative;
+	
+}
+
+.sec8 .box2{
+
+	position: relative;
+		
+
+}	
+
+.sec8 .box1 .duck{
+
+	position: absolute;
+	bottom: 12%;
+    width: 20px;
+    right: 40%;
+}
+
+
+.sec8 .shirt{
+
+	width: 20px;
+	margin-left: 10px;
+
+}
+.sec8  h3{
+
+	text-transform: uppercase;
+	line-height: 25px;	
+	font-weight: bold;	
+	color: #7400dc;
+}
+
+.sec8 .duck img{
+
+	height: 60px;
+	width: 60px;	
+	margin-bottom: 8px;
+}
+
+.sec8 .overlay{
+
+	position: absolute;
+	height: 100%;	
+	top: 0;
+	width: 100%;
+	left: 0;
+	right: 0;
+	transition: .5s;
+
+}
+
+.sec8 .overlay .overlayleft{
+
+ 
+  height: 100%;
+  position: absolute;
+ 
+  right: 0;
+  width: 0%;
+  background-color: white;
+  opacity: .8;   
+  transition: .5s ease-in-out;
+ 
+
+}
+
+
+.sec8 .overlay:hover .overlayleft{
+
+ 
+  background-color: white;
+  width: 80%;
+  opacity: 0;
+}
+
+.sec8 .overlay .overlayright{
+
+ 
+  height: 100%;
+  position: absolute;
+ 
+  left: 0;
+  width: 0%;
+  background-color: white;
+  opacity: .8;   
+  transition: .5s ease-in-out;
+ 
+
+}
+
+
+.sec8 .overlay:hover .overlayright{
+
+ 
+  background-color: white;
+  width: 80%;
+  opacity: 0;
+}
+
+
+
+/*==========================sec8 end==================*/
+
+
+/*==========================sec9 start==================*/
+
+.sec9 {
+
+	margin: 10%;
+
+}
+
+.sec9 h4{
+
+	text-transform: uppercase;
+	font-weight:bold;
+}
+
+.sec9 .card h6{
+
+	font-size: 10px;
+}
+
+.sec9 .card button{
+
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7400dc;
+	border-radius: 50px;
+}
+
+
+.sec9 .card .footer1{
+
+	background-color: #7400dc;
+}
+
+.sec9 .card i{
+
+	padding-left: 5px;
+}
+
+.sec9 .card{
+
+	margin: 15px 0px;
+	position: relative;
+	background-color: #e9e3ff;
+}
+
+.sec9 .card .footer2{
+
+	background-color: #f3f7fb;
+}
+
+.sec9 .card img{
+
+	height: 250px;
+}
+
+.sec9 .card .cart{
+
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: .2s;
+	height: 100%;
+	width: 100%;
+	
+	
+}
+
+
+.sec9 .card .cart .cartimg{
+
+	height: 195px;
+	width: 0%;	
+	transition: .2s ease-in-out;
+	top: 0;	
+	float: right;
+	right: 0;
+}
+
+.sec9 .card .cart:hover .cartimg{
+	
+	
+	opacity: 1;		
+	background-color: rgb(233, 227, 255);
+	width: 100%;
+	
+}
+
+.sec9 .card .cart .cartimg .imgcart{
+
+
+	height: 250px;	
+	width: 100%;
+	
+	
+	
+
+}
+
+.sec9 .card .cart .cartbtn{
+
+	text-align: center;
+	opacity: 0;
+	width: 100%;
+	top: 81%;
+	padding: 13px;
+	background-color: #7400dc;
+}
+
+.sec9 .card .cart:hover .cartbtn{
+
+	text-align: center;
+	opacity: 1;
+	
+	position: absolute;		
+	background-color: #7400dc;
+}
+
+.sec9 .card .cart .cartbtn .btn:hover{
+
+	border: none;	
+	margin: 1px 0px;
+	background-color: rgb(0, 105, 217);
+}
+
+.sec9 .card .cart .btnicon{
+
+	position: absolute;
+	left: 10px;
+	transition: .2s ease-in-out;
+	border: none;
+	padding: 4px 2px;
+	bottom: 40%;	
+	opacity: 0;
+	padding-right: 6px;
+	background-color: white;
+}
+
+.sec9 .card .cart:hover .btnicon{
+
+	opacity: 1;
+	bottom: 50%;
+	box-shadow: 0px 1px 5px gray;
+	color: black;
+	
+}
+
+.sec9 .card .cart .btnicon:hover{
+
+	background-color: rgb(116, 0, 220);
+		
+}
+
+.sec9 .card .cart .btnicon .btni{
+
+	color: black;
+	font-size: 15px;
+}
+
+
+.sec9 .card .cart .btnicon:hover .btni{
+
+	color: white;
+
+}
+
+
+/*==========================sec9 end==================*/
+
+/*==========================sec10 start==================*/
+
+.sec10{
+
+	background-image: url(img/back3.jpg);
+	padding: 3% 0px 3% 3%;
+	margin: 5% 10%;	
+	background-position: center;
+	background-size: cover;
+}
+
+.sec10 .text{
+
+	margin-left: 20px;
+}
+
+
+.sec10 .text h1{
+
+	color: white;
+	width: 50%;
+	font-size: 52px;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+
+.sec10 .text p{
+
+	color: white;
+	width: 50%;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+
+.sec10 .text button{
+
+	text-transform: uppercase;
+	font-size:12px;
+	font-weight: bold;
+	color: #7400dc;
+	margin-top: 20px;
+	border-radius: 50px;
+	padding: 8px 3%;
+}
+
+/*==========================footer start=================*/
+
+.footer{
+
+	background-color: #150d23;
+	padding: 4% 10%;
+	width: 100%;
+
+	
+}
+
+.footer .logo .logobtm{
+
+	margin-top: 20px;
+
+}
+
+.footer .logo i{
+
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.footer .logo .trust{
+
+	height: 10px;
+
+}
+
+.footer .logo .check{
+
+	margin-right: 5px;
+	margin-left: 7%;
+	height: 10px
+}
+.footer .logo .rating{
+
+	display: inline;
+	vertical-align: -webkit-baseline-middle;
+	color: white;
+}
+
+.footer .logo .star{
+
+	
+	margin-top: 10px;
+	height: 25px;
+	width: 25px;
+	
+}
+
+.footer .logo{
+
+	margin-right: 6%;
+}
+
+.footer .link{
+
+	margin-right: 6%;
+	height: auto;
+	width: auto;
+}
+
+.footer .link a{
+
+	color: white;
+	font-size: 10px;
+}
+
+.footer .slink a{
+
+	font-size: 14px;
+	color: white;
+	padding-right: 8px;
+}
+
+.footer .para1{
+
+	font-size: 12px;
+	margin: 0px!important;
+
+}
+
+.footer .para2{
+
+	font-size: 12px;
+}
+
+.footer .logo p{
+
+	color: white;
+}
+
+.footer .fstcol .para2{
+
+	color: white;
+}
+
+.footer .logo .rd{
+
+	text-transform: uppercase;
+	color: #ffd300;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.footer .logo span{
+
+	color: red;
+}
+
+
+.footer h6{
+
+	color: white;
+	font-size: 12px;
+	margin: 20px 0px;
+	text-transform: uppercase;
+}
+
+.footer li{
+
+	text-decoration: none;
+	list-style: none;
+
+}
+
+/*=========================footer end==================*/
+
+
+/*=========================btmbar start==================*/
+
+.btmbar{
+
+	background-color: black;
+	padding: 5px 10%;
+	width: 100%;
+
+}
+
+.btmbar .links a{
+
+	font-size: 10px;
+	margin-right: 20px;
+	text-decoration: none;
+	color: #4c4f55;
+}
+
+.btmbar .copyright p{
+
+	font-size: 10px;
+	
+	color: #4c4f55;
+	margin-top: 5px;
+}
+
+
+
+/*=========================btmbar end==================*/
+
+@media (min-width: 414px) and (max-width: 500px) {
+
+	.sec2 img {
+    padding-right: 10%;
+    margin-top: 10%;
+}
+
+.sec2 input {
+    border: none;
+    border-radius: 50px;
+    width: 90%;
+    height: 14.5%;
+    padding: 0% 2%;
+    font-size: 12px;
+    color: #aab3ba;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.sec2 button {
+    text-transform: uppercase;
+    font-size: 12px;
+    color: white;
+    padding: 5px 2%;
+    border-radius: 50px;
+    right: 14%;
+    height: 2.5rem;
+    margin-top: 3px;
+    position: absolute;
+}
+
+.sec3 button {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bold;
+    height: 3rem;
+    margin: 8% 12%;
+    color: #2b3046;
+    padding: 15px 30px;
+    border-radius: 50px;
+   
+}
+
+.top .row .search input {
+    width: 80%;
+    height: auto;
+    border: none;
+    padding: 5px 0px 5px 10px;
+    border-radius: 50px;
+    color: #8098a8;
+    margin-bottom: 10px;
+    float: right; 
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.top .row .search button {
+    color: #8098a8;
+    padding: 0px;
+    margin-top: 1px;
+    position: absolute;
+    right: 7%;
+}
+
+.top .row .search span {
+    border-left: 2px solid #ccc;
+    right: 13%;
+    margin-top: 1.5%;
+    height: 15px;
+    position: absolute;
+}
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
